@@ -5,4 +5,5 @@ This is a solution to a TopCoderSRM. It converts a string to its hex-form.
 # Instruction
 
 Clone the repository, and run:
-`dot net`
+
+`dotnet run`
